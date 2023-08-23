@@ -1,0 +1,53 @@
+.container {
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 50px;
+  border-radius: 50px;
+  background: linear-gradient(
+    178.6deg,
+    rgb(232, 245, 253) 3.3%,
+    rgb(252, 253, 255) 109.6%
+  );
+}
+h1 {
+  font-size: 60px;
+}
+h3 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+}
+.first {
+  font-size: 20px;
+}
+.second {
+  font-size: 20px;
+}
+.third {
+  font-size: 20px;
+}
+.fourth {
+  font-size: 20px;
+}
+.fifth {
+  font-size: 20px;
+}
+.units {
+  position: relative;
+  top: -68px;
+  left: 90px;
+}
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+#temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
